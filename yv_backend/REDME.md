@@ -4,11 +4,11 @@
 
 
 ## Steps that are being implemented from backend
-Terminology : Smallest possible action that a body can take is called "GENE"
-              Series of genes that an object needs to take is collectively called as "DNA"
-              Each Gene has one of five possible actions (STOP-0 , RIGHT-1 , LEFT-2 , UP-3 , DOWN-4)
-
-
+Terminology : Smallest possible action that a body can take is called "GENE"  
+              Series of genes that an object needs to take is collectively called as "DNA"  
+              Each Gene has one of five possible actions (STOP-0 , RIGHT-1 , LEFT-2 , UP-3 , DOWN-4)  
+  
+  
 1. Have Initial population of "x" where each DNA contains "n"" genes
 2. Let them perfom according to their DNA
 3. Based on their acheiments (final distance from the destination point) all "x" population will be sorted 
