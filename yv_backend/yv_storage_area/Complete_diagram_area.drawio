@@ -1,11 +1,11 @@
-<mxfile host="Electron" modified="2024-01-14T09:11:30.359Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="HkygwNRf4VFB529PBi_1" version="22.1.18" type="device">
+<mxfile host="Electron" modified="2024-01-15T05:05:28.436Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="B6qRmse6Vhn-8idPYs6W" version="22.1.18" type="device">
   <diagram name="Page-1" id="cQXWc-4aOv8uGPWrgXhW">
     <mxGraphModel dx="996" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4OCos0-XTAVf6XtP53NM-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="760" height="460" as="geometry" />
+          <mxGeometry x="10" y="60" width="760" height="320" as="geometry" />
         </mxCell>
         <mxCell id="4OCos0-XTAVf6XtP53NM-1" value="Front END" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="150" width="170" height="130" as="geometry" />
@@ -25,11 +25,11 @@
             <mxPoint x="450" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4OCos0-XTAVf6XtP53NM-10" value="&lt;h1 style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;Feed info about state of body like&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; background-color: initial;&quot;&gt;1. Id of the body&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2 . distance from destination&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3 . has it collided with walls&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="290" y="50" width="200" height="120" as="geometry" />
+        <mxCell id="4OCos0-XTAVf6XtP53NM-10" value="&lt;h1 style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;Feed info about state of body in decided format&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4OCos0-XTAVf6XtP53NM-11" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;Feeds back Info like&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; background-color: initial;&quot;&gt;1. Id of the objects&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Along with complete DNA of steps that it has to take&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="260" width="330" height="100" as="geometry" />
+        <mxCell id="4OCos0-XTAVf6XtP53NM-11" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Feed back info in decide format&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="270" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
