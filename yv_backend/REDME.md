@@ -1,5 +1,5 @@
 # Algorithm and Flowcharts
-![overview of project](https://github.com/Akaalis-code/yv_project_x/blob/yv_dev_branch/yv_backend/yv_storage_area/overview.jpg)
+![overview of project](https://raw.githubusercontent.com/Akaalis-code/yv_project_x/55499c169778ab91e33fc2080ca609921f5ad8af/yv_backend/yv_storage_area/overview_in_svg.svg)
 
 
 
@@ -10,7 +10,7 @@
     - Each Gene has one of five possible actions (STOP-0 , RIGHT-1 , LEFT-2 , UP-3 , DOWN-4)  
   
   
-1. Have Initial population of "x" where each DNA contains "n"" genes
+1. Have Initial population of "x" where each DNA contains "n" genes
 2. Let them perfom according to their DNA
 3. Based on their acheiments (final distance from the destination point) all "x" population will be sorted 
 4. Top "y" number of performers ( where "y"<"x" ) will be selected and least "x-y" performers DNA will be deleted
